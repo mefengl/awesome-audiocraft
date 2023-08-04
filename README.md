@@ -14,11 +14,37 @@ Have you experimented with AudioCraft and want to share your experiences? Have y
 
 To make a submission 📝, please follow these steps:
 
-1. Fork the repo 🍴.
-2. Add your submission to the relevant section (or create a new section if necessary). Make sure to follow the existing format 📑.
-3. Submit a pull request with a brief explanation of your submission and why it's beneficial for the Awesome AudioCraft community 👥.
+1. Fork the repo and add your submission to the relevant section (or create a new section if necessary), then submit a pull request 🍴.
+   
+   OR
+
+2. Create an issue in this repository with the details of your submission 📮.
+
+Please ensure to provide a brief explanation of your submission and why it's beneficial for the Awesome AudioCraft community 👥 in either case.
 
 Remember, our goal is to maintain a high-quality list of resources. Your submission should add value to the community, helping others explore and utilize AudioCraft to its full potential.
+
+## 💎 Official AudioCraft Repository
+
+- [AudioCraft](https://github.com/facebookresearch/audiocraft): The official PyTorch library for deep learning research on audio generation, hosting the training and inference code for AudioGen and MusicGen.
+
+## 🌟 Featured Community Projects
+
+- [Audio Webui](https://github.com/gitmylo/audio-webui): An intuitive web user interface for audio handling and Text-to-Speech operations.
+- [MusicGen Trainer](https://github.com/chavinlo/musicgen_trainer): A robust trainer for the MusicGen model, supporting different MusicGen model sizes and enabling users to train with their own datasets.
+- [Audiocraft WebUI](https://github.com/CoffeeVampir3/audiocraft-webui): A local web interface for Facebook's Audiocraft model, allowing for easy and customizable audio generation.
+
+## 📚 Tutorials and Guides
+
+*(Coming Soon)*
+
+## 🎈 Experiments and Demos
+
+*(Coming Soon)*
+
+## 📑 Articles and Papers
+
+*(Coming Soon)*
 
 ## 🎉 Let's Craft the Future of Audio Together! 🌈
 
