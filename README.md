@@ -27,6 +27,7 @@ Remember, our goal is to maintain a high-quality list of resources. Your submiss
 ## 💎 Official AudioCraft Repository
 
 - [AudioCraft](https://github.com/facebookresearch/audiocraft): The official PyTorch library for deep learning research on audio generation, hosting the training and inference code for AudioGen and MusicGen.
+- [MusicGen by Hugging Face](https://huggingface.co/spaces/facebook/MusicGen): Hugging Face's online interactive platform for using MusicGen.
 
 ## 🌟 Featured Community Projects
 
@@ -44,7 +45,8 @@ Remember, our goal is to maintain a high-quality list of resources. Your submiss
 
 ## 📑 Articles and Papers
 
-*(Coming Soon)*
+- [Simple and Controllable Music Generation](https://ai.honu.io/papers/musicgen/): A comprehensive paper that describes the methodology and functionality behind the MusicGen model.
+- [ArXiv Paper on Simple and Controllable Music Generation](https://arxiv.org/abs/2306.05284): The official ArXiv paper on the MusicGen model.
 
 ## 🎉 Let's Craft the Future of Audio Together! 🌈
 
