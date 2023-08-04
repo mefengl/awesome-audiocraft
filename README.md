@@ -1,3 +1,4 @@
+<!-- DO NOT REMOVE - contributor_list:data:start:["mefengl"]:end -->
 # 🎧 Awesome AudioCraft 🎶
 
 Hello, sound enthusiasts! 🎧🎙️🎛️
@@ -53,3 +54,13 @@ Remember, our goal is to maintain a high-quality list of resources. Your submiss
 Join us in pushing the boundaries of AI-generated audio and music. Your knowledge and experiences can inspire others and transform the way we interact with sound.
 
 Stay tuned, keep experimenting, and let's craft some awesome audio! 🎼🔊🎚️🎹
+
+<!-- prettier-ignore-start -->
+<!-- DO NOT REMOVE - contributor_list:start -->
+## 👥 Contributors
+
+
+- **[@mefengl](https://github.com/mefengl)**
+
+<!-- DO NOT REMOVE - contributor_list:end -->
+<!-- prettier-ignore-end -->
